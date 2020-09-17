@@ -1,3 +1,2 @@
-www.4399api.com
-www.4399.com
-password
+name = "s1-zmxl.4399sy.com"
+  
